@@ -1,0 +1,7 @@
+torch
+numpy
+pennylane
+pennylane-lightning
+transformers
+datasets
+gast
