@@ -116,7 +116,7 @@ def train():
                 val_batches += 1
 
                 # Limit validation batches too
-                if batch_idx >= 1:
+                if batch_idx >= 4:
                     break
 
         avg_val_loss = val_loss / val_batches
