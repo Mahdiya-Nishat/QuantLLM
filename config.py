@@ -20,10 +20,9 @@ class Config:
 
     # Training settings
     learning_rate = 3e-4
-    batch_size = 2  # changed from 16
-    epochs = 2  # changed from 10
+    batch_size = 16
+    epochs = 10
     grad_clip = 1.0
-    seq_len = 8  # changed from 128
-
+    seq_len = 128
     # Loss weighting
     lambda_lat     = 0.1     # balances latency vs accuracy loss
