@@ -306,8 +306,6 @@ Training confirmed feasible with decreasing loss across epochs:
 ## 📚 References
 
 Based on the paper:
-> *QuantLLM: A Hybrid Classical-Quantum LLM Transformer with Adaptive Routing Framework for Inference Latency Minimization*
-> Nishat Mahdiya Khan, Pronaya Bhattacharya, Sandip Roy, Sachin Shetty
 > cite: [N. M. Khan, P. Bhattacharya, S. Roy and S. Shetty, "QuantLLM: A Hybrid Classical-Quantum LLM Transformer with Adaptive Routing Framework for Inference Latency Minimization," 2025 International Conference on Software, Telecommunications and Computer Networks (SoftCOM), Split, Croatia, 2025, pp. 01-07, doi: 10.23919/SoftCOM66362.2025.11197342.]
 
 ---
